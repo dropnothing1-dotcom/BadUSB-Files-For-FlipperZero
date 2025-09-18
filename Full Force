@@ -369,4 +369,3 @@ int32_t fullforce_app_entry(void* p) {
     view_dispatcher_run(app->view_dispatcher);
     fullforce_app_free(app);
     return 0;
-}
